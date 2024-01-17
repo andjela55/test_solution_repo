@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9Y2DCZvTfwRQ39SLK2E24bRVMN58rDjCiKe1RRutf8W2y/5Xt5MdAQ+HWONhOqGcOglcN0d9heq4M/OKFr5Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andje\\OneDrive\\Radna površina\\TestingProject\\backend\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andje\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\andje\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\andje\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
